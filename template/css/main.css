@@ -261,12 +261,13 @@ section {
   padding-bottom: 30px;
 }
 
-.navbar-right li.active a {
-  background-color: rgba(0,0,0,.2);
+.navbar-left li a {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
-.navbar-brand {
-  margin-top: 20px;
+.navbar-right li.active a {
+  background-color: rgba(0,0,0,.2);
 }
 
 /*************************
